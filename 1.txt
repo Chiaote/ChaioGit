@@ -1,1 +1,2 @@
 print("ＹＯ～～Hello World～！")
+print(“good bye yo~~”)

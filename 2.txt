@@ -1,0 +1,3 @@
+print("ＹＯ～～Hello bro～！")
+print(“I’m another txt”)
+print(“Let’s do somthing!”)
