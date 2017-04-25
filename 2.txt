@@ -1,3 +1,4 @@
 print("ＹＯ～～Hello bro～！")
 print(“I’m another txt”)
 print(“Let’s do somthing!”)
+print(“I can fix all the bug you will make!!”)
